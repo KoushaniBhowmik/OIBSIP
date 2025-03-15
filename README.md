@@ -34,6 +34,7 @@ Compile and run any Java file:
    java TaskName
    ```
    Replace `TaskName` with the respective Java file (e.g., `Task_one`).
+   
 ---
 ## 🛠 Requirements
 - ☕ Java Development Kit (JDK) 8 or later.
