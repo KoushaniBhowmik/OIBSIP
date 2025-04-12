@@ -1,5 +1,5 @@
-# 🚀 OIBSIP Task Repository
-This repository contains three Java-based console applications developed as part of the internship tasks.
+# 🚀 Java Projects
+This repository contains Java-based console applications.
 
 ---
 ## 📌 Tasks Overview
